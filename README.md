@@ -5,7 +5,8 @@
 
 
 [I'm an inline-style link](app.merat.ir)
-[I'm an inline-style link](merat://app.merat.ir)
+
+[I'm an ](merat://app.merat.ir)
 
 
 
